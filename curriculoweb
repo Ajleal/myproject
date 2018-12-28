@@ -1,0 +1,233 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+
+			"http://www.w3.org/TR/html4/strict.dtd">
+
+<html lang="pt-br">
+
+	<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Curriculo Allan Leal</title>
+	<link rel="stylesheet" type="text/css" href="estilo/estilo.css" media="all">
+		<script>
+			function myFunction(){
+				alert("Sua mensagem foi enviada !");
+			}
+		 </script>
+
+	</head>
+
+	
+
+	<body>
+
+		<h1> Portfólio </h1>
+		<img src="img\a2.jpg" alt="photo of allanjohnson" class="photo"/>
+
+		<ul id="menu">
+
+			<li><a href="cv-resumido.html"></a></li>
+			<li class="ativo"></li>
+
+		</ul>
+
+		
+<!dados pessoais >
+		<div class="secao">
+
+			<h2>Dados Pessoais</h2>			
+
+				<div id="hcard-Ademir-Mazer-Jr" class="vcard">
+					<span class="given-name">Allan Johnson</span>
+					<span class="additional-name">do Nascimento</span>
+					<span class="family-name">Leal</span>
+					<sup><a href="#1-fn" id="fn1" title="veja o rodapé"></a></sup>
+						<a class="email" href="mailto:allanjohnson.leal@live.com">allanjohnson.leal@live.com</a>
+						<a class="link" href="https://github.com/tsunad" target="_blank">Meu Github</a><br /> 
+					<span>Rua Antônio Luciano de Oliveira, 225 </span><br />
+					<span class="locality">Amparo, Olinda</span>
+				-
+					<span class="region">Pernambuco</span>
+					<span class="contact"> (81)99829-6883</span><br />
+					
+				 </div>
+				</div>
+		</div>
+<!fim de dados pessoais >
+<! inicio de formação academica>
+		<div class="secao">
+			<h2>Formação Acadêmica</h2>
+			<p><label>2º Grau Completo</label>EREM - SILVA JARDIM </p>
+			<p><label>Técnico em Informática</label>Rede e Programação - Leiaut Cariello</p>
+			<p><label>Superior</label>Análise e Desenvolvimento de Sistemas (III Período cursando) - Faculdade Alpha </p>
+		</div>
+
+		<div class="secao">
+			<h2>Outros Cursos</h2>
+			<table>
+				<thead>
+				<tr>
+					<th>Curso</th>
+					<th>Conclusão</th>
+					<th>Instituição</th>
+					<th>Observações</th>
+				</tr>
+				</thead>
+				<tr class="par">
+					<td align="center">Instalação e Manutenção de Micro</td>
+					<td align="center">2010	</td>
+					<td align="center">Microcamp Olinda </td>
+					<td>Apendizado em hardware, sendo instalação e manutenção de micro, confirgurações de redes windows e
+					linux, cabeamento, entre outros...</td>
+				</tr>
+
+				<tr class="impar">
+					<td></td>
+					<td></td>
+				</tr>
+				<tr class="par">
+					<td></td>
+					<td></td>
+				</tr>
+				<tr class="impar">
+					<td></td>
+					<td></td>
+				</tr>
+			</table>			
+		</div>
+
+<!fim de formação academica>
+<!inicio de dados profissionais>
+
+		<div class="secao">
+			<h2>Dados Profissionais</h2>
+			<table>
+				<thead>
+				<tr>
+					<th>Empresa</th>
+					<th>Duração</th>
+					<th>Função</th>
+					<th>Atividade Exercida</th>
+				</tr>
+				</thead>
+
+				<tr class="par">
+					<td>Grupo Provider</td>
+					<td>1 ano e 8 meses</td>
+					<td>Operador de Telemarketing</td>
+					<td>Atuava como agente de relacionamento financeiro de cartões de credito.</td>
+					
+				</tr>
+
+				<tr class="impar">
+					<td>Grupo Contax</td>
+					<td>2 ano e 6 meses</td>
+					<td>Operador de Telemarketing</td>
+					<td>Atuava no setor de correcão e geração de contas de operadora de telefonia.</td>
+				</tr>
+
+				<tr class="par">
+					<td>Datametica</td>
+					<td>4 meses</td>
+					<td>Operador de Telemarketing</td>
+					<td>Fornecia suporte 1º nivel de tv e internet.<td>
+				</tr>
+
+				<tr class="impar">
+					<td></td>
+					<td></td>
+				</tr>
+			</table>			
+		</div>
+
+
+<!fim de dados profissionais>
+
+<!inicio de linguas>
+
+		<div class="secao">
+			<h2>Línguas</h2>
+			<table>
+				<thead>
+				<tr>
+					<th>Língua</th>
+					<th>Escrita</th>
+					<th>Fala</th>
+					<th>Leitura</th>
+				</tr>
+				</thead>
+
+				<tr class="par">
+					<td align="center">Inglês</td>
+					<td class="regular" align="center">Técnico</td>
+					<td class="bom" align="center">Técnico</td>
+					<td class="otimo" align="center">Técnico</td>
+				</tr>
+				<tr class="impar">
+					<td align="center">Espanhol</td>
+					<td class="ruim" align="center">N/A</td>
+					<td class="ruim" align="center">N/A</td>
+					<td class="regular" align="center">Técnico</td>
+				</tr>
+			</table>			
+		</div>
+		
+		<div class="secao">
+			<h2>Referências Pessoais</h2>
+			<table>
+				<thead>
+				<tr>
+					<th>Nome</th>
+					<th>Contato</th>
+					<th>Grau de Referência</th>
+				</tr>
+				</thead>
+				
+				<tr class="par">
+					<td align="center"> </td>
+					<td align="center"></td> 
+					<td align="center"></td>
+				</tr>
+			
+			
+			
+			
+			
+				
+			</table>
+		</div>
+<!fim de linguas>
+
+ 
+
+		<form action="#" method="post">
+
+			<fieldset>
+			<legend>Deixe sua opnião</legend>
+			
+			<label for="nome">Nome</label>
+			<input type="text" name="nome"/>
+			
+			<label for="nome">Assunto</label>
+			<input type="text" name="assunto"  />
+	
+			<label for="nome">Email</label>
+			<input type="text" name="email"  />
+			
+			<label for="nome">Mensagem</label>
+			<textarea name="msg"></textarea>
+			<button onclick="myFunction()" >Enviar</button>
+			</fieldset>
+
+		</form>
+>
+
+
+		
+
+		
+
+	</body>
+
+</html>
