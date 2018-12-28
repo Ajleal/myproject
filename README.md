@@ -1,2 +1,2 @@
-# myproject
-versão de projeto pessoal de curriculo
+# My Project
+versão de projeto pessoal de um curriculo
